@@ -1,0 +1,8 @@
+rootProject.name = 'popcorn-and-point'
+
+include 'auth-service'
+include 'booking-service'
+include 'gateway-api'
+include 'movie-service'
+include 'notification-service'
+include 'payment-service'
